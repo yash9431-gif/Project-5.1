@@ -1,0 +1,159 @@
+.home{
+    background-color: #2bb673;
+    height: 50px;
+    
+}
+.subhead>button{
+    margin-right: 70px;
+    height: 30px;
+    margin-top: 12px;
+    border: 0ch;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+}
+
+.subhead>a>button{
+    margin-right: 70px;
+        height: 30px;
+        margin-top: 12px;
+        border: 0ch;
+        background-color: transparent;
+        color: white;
+        font-size: 20px;
+    
+}
+
+.card1{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 1150px;
+    height: 500px;
+    
+    margin: auto;
+}
+.card1sub{
+    display: flex;
+    margin-left: 200px;
+    margin: auto;
+}
+
+.card1sub>img:nth-child(1){
+  height: 350px;
+  width: 800px;
+border: 0.0000000001vmin solid black;
+
+}
+.card1sub>img {
+    height: 350px;
+    width: 350px;
+    border: 0.00001ch solid black;
+}
+
+
+.card1many>img{
+    height: 100px;
+    width: 140px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.colcard{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+    width: 1150px;
+    margin: auto;
+    margin-top: 40px;
+   
+}
+.colcardpara{
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.colcard1{
+ display: flex;
+}
+
+.colcard11>img{
+    height:170px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+}
+
+.subfooter{
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 1200px;
+ 
+ 
+}
+.subfooterintro>p{
+    font-size: 30px;
+
+    color: grey;
+}
+
+.subfooterintro>p>img{
+   width: 300px;
+  
+   margin-left: 40px;
+}
+
+.subfooterimg{
+    display: flex;
+    margin-left: 200px;
+}
+.subfootercard{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 220px;
+    height: 220px;
+    margin: 30px;
+    border-radius: 10px;
+}
+.subfootercard>img{
+   height: 100px;
+   width: 140px;
+}
+
+.footerbtn>button{
+    background-color: #de0e0e;
+    width: 400px;
+    height: 90px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 40px;
+    
+}
+.footerbtn>button>p{
+    font-size: 15px;
+}
+
+.footerfeat{
+    margin-top: 50px;
+}
+
+.footer{
+    background-color: #2bb673;
+    height: 500px;
+    display: flex;
+    font-size: 10px;
+   
+}
+.General{
+    text-align: justify;
+    margin-right: 40px;
+    color: wheat;
+    
+    
+}
+
+.General:nth-child(1){
+    margin-left: 350px;
+}
